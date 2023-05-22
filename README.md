@@ -26,8 +26,8 @@ from Bio import SeqIO
 from tabulate import tabulate
 
 # Parse sequences using SeqIO
-seq1 = SeqIO.read('sequence1.fasta', 'fasta')
-seq2 = SeqIO.read('sequence2.fasta', 'fasta')
+seq1 = SeqIO.read('mt.fa', 'fasta')
+seq2 = SeqIO.read('queue.fa', 'fasta')
 
 # Define gap penalties
 gap_open_penalty = -2
