@@ -9,7 +9,7 @@ This repository contains the Jupyter notebook `main.ipynb`, which implements a s
 - Incorporates affine gap penalties, with separate penalties for gap opening and extension.
 - Outputs alignment score and the aligned sequences.
 
-## Technologies Used
+## Used
 
 - Python
 - Jupyter Notebook
